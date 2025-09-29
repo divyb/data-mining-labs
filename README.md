@@ -1,1 +1,21 @@
-# Data Mining Labs and Notebooks (Semester 5)\r\n\r\nPython notebooks and scripts for data preprocessing, modeling, and evaluation.\r\n\r\n## Tech Stack\r\n- Python 3.8+\r\n- Jupyter Notebook\r\n- numpy, pandas, matplotlib, scikit-learn (where applicable)\r\n\r\n## Skills Demonstrated\r\n- Data preprocessing and feature engineering\r\n- Supervised/unsupervised learning experiments\r\n- Model evaluation and visualization\r\n\r\n## Structure\r\n- src/: Notebooks, scripts, and sample datasets\r\n
+# Data Mining Labs and Notebooks (Semester 5)
+
+Python notebooks and scripts for data preprocessing, modeling, and evaluation.
+
+---
+
+## 🚀 Tech Stack
+- **Python 3.8+**
+- **Jupyter Notebook**
+- **numpy, pandas, matplotlib, scikit-learn** (where applicable)
+
+---
+
+## 🧩 Skills Demonstrated
+- **Data preprocessing** and feature engineering  
+- **Supervised / Unsupervised learning** experiments  
+- **Model evaluation** and visualization  
+
+---
+
+## 📂 Repository Structure
