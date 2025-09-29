@@ -17,5 +17,3 @@ Python notebooks and scripts for data preprocessing, modeling, and evaluation.
 - **Model evaluation** and visualization  
 
 ---
-
-## 📂 Repository Structure
